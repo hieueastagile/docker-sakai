@@ -1,2 +1,6 @@
 sakai/tomcat
 sakai/local.properties
+tomcat/components
+tomcat/endorsed
+tomcat/lib
+tomcat/webapps

@@ -4,9 +4,9 @@
 # It exposes the webserver publicly, but all the developer services (mysql, debug port, jmx) just on localhost.
 #
 app:
-  #build: ../tomcat
+  build: ../tomcat
   # If you want to test the production image swap the previous line with this one.
-  #image: sakaiproject/sakai
+  # image: sakaiproject/sakai
 
 
 
