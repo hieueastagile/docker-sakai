@@ -1,4 +1,4 @@
-docker/docker-compose
+docker-sakai
 ==========
 
 # Installation
